@@ -81,27 +81,31 @@ PORT=5000
 AI Conversation Studio/
 │
 ├── backend/
+
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── middleware/
+
 │   ├── index.js
+
 │
 ├── src/
+
 │   ├── components/
+
 │   ├── pages/
+
 │
 ├── public/
+
 ├── package.json
+
 └── vite.config.ts
 
-### 🧠 Features:
-💬 AI Chatbot system
-🔐 User authentication system
-📊 Admin dashboard
-🗂️ Conversation history tracking
-⚡ Fast and responsive UI
-🔗 REST API integration
 
 ### 📌 Note
 
