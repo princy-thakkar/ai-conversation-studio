@@ -77,34 +77,37 @@ JWT_SECRET=your_secret
 OPENAI_API_KEY=your_key
 PORT=5000
 
-### 📁 Project Structure
+## 📁 Project Structure
+
+```text
 AI Conversation Studio/
 │
 ├── backend/
-
+│   ├── config/
 │   ├── controllers/
-
-│   ├── models/
-
-│   ├── routes/
-
 │   ├── middleware/
-
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── utils/
+│   ├── app.js
 │   ├── index.js
-
+│   ├── server.js
+│   └── package.json
 │
 ├── src/
-
 │   ├── components/
-
 │   ├── pages/
-
+│   ├── services/
+│   ├── App.jsx
+│   └── main.jsx
 │
 ├── public/
-
 ├── package.json
-
-└── vite.config.ts
+├── vite.config.ts
+├── tailwind.config.js
+└── README.md
+```
 
 
 ### 📌 Note
