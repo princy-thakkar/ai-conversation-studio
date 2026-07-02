@@ -6,6 +6,9 @@ AI Conversation Studio is a full-stack AI chatbot application that allows users 
 
 ## 🏆 Team Details
 
+### Team Name
+CodeCrafters
+
 ### Team Members
 - Princy Thakkar
 - Shraddha Patel
