@@ -4,6 +4,15 @@ AI Conversation Studio is a full-stack AI chatbot application that allows users 
 
 ---
 
+## 🏆 Team Details
+
+### Team Members
+- Princy Thakkar
+- Shraddha Patel
+
+### College Name
+Charotar University of Science and Technology
+
 ## ✨ Features
 
 - 🤖 AI chatbot powered by OpenAI API  
@@ -14,26 +23,46 @@ AI Conversation Studio is a full-stack AI chatbot application that allows users 
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technology Stack Used
 
-**Frontend:** React, Vite, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB  
-**AI:** OpenAI API  
-**Auth:** JWT, bcryptjs  
+### 🖥️ Frontend
+- React (Vite)
+- Tailwind CSS
+- React Router DOM
+- Axios
+
+### 🧠 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- OpenAI API
+
+### 🔐 Authentication & Security
+- JWT (if used)
+- bcryptjs
+- dotenv
+- CORS
+- Helmet
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Build & Run Instructions
 
-### Frontend
-```bash
+### 📌 Step 1: Clone Repository
+git clone https://github.com/princy-thakkar/ai-conversation-studio.git
+cd ai-conversation-studio
+
+
+### 📌 Step 2: Setup Frontend
 npm install
 npm run dev
 
-## Backend
+### 📌 Step 3: Setup Backend
 cd backend
 npm install
 npm run dev
+
 
 🔐 Environment Variables
 
@@ -43,6 +72,37 @@ MONGODB_URI=your_mongodb_url
 JWT_SECRET=your_secret
 OPENAI_API_KEY=your_key
 PORT=5000
+
+📁 Project Structure
+AI Conversation Studio/
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── index.js
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│
+├── public/
+├── package.json
+└── vite.config.ts
+
+🧠 Features:
+💬 AI Chatbot system
+🔐 User authentication system
+📊 Admin dashboard
+🗂️ Conversation history tracking
+⚡ Fast and responsive UI
+🔗 REST API integration
+
+📌 Note
+
+This project is developed for hackathon/academic submission purposes and demonstrates full-stack development skills.
+
 
 👨‍💻 Author
 
