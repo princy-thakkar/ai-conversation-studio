@@ -51,20 +51,24 @@ Charotar University of Science and Technology
 
 ### 📌 Step 1: Clone Repository
 git clone https://github.com/princy-thakkar/ai-conversation-studio.git
+
 cd ai-conversation-studio
 
 
 ### 📌 Step 2: Setup Frontend
 npm install
+
 npm run dev
 
 ### 📌 Step 3: Setup Backend
 cd backend
+
 npm install
+
 npm run dev
 
 
-🔐 Environment Variables
+### 🔐 Environment Variables
 
 Create .env in backend:
 
@@ -73,7 +77,7 @@ JWT_SECRET=your_secret
 OPENAI_API_KEY=your_key
 PORT=5000
 
-📁 Project Structure
+### 📁 Project Structure
 AI Conversation Studio/
 │
 ├── backend/
@@ -91,7 +95,7 @@ AI Conversation Studio/
 ├── package.json
 └── vite.config.ts
 
-🧠 Features:
+### 🧠 Features:
 💬 AI Chatbot system
 🔐 User authentication system
 📊 Admin dashboard
@@ -99,12 +103,12 @@ AI Conversation Studio/
 ⚡ Fast and responsive UI
 🔗 REST API integration
 
-📌 Note
+### 📌 Note
 
 This project is developed for hackathon/academic submission purposes and demonstrates full-stack development skills.
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Princy Thakkar
 GitHub: @princy-thakkar
