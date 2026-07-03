@@ -77,8 +77,13 @@ Create .env in backend:
 
 MONGODB_URI=your_mongodb_url
 JWT_SECRET=your_secret
-OPENAI_API_KEY=your_key
+GROQ_API_KEY=your_groq_api_key
 PORT=5000
+
+### AI
+- Groq API
+- Llama 3.3 70B Versatile
+  
 
 ## 📁 Project Structure
 
