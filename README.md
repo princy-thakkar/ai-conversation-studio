@@ -18,11 +18,17 @@ Charotar University of Science and Technology
 
 ## ✨ Features
 
-- 🤖 AI chatbot powered by OpenAI API  
-- 👤 User authentication (JWT-based login/register)  
-- 💬 Persistent chat history per user  
-- 📊 Admin dashboard for user/activity tracking  
-- 🔐 Secure backend APIs with Express & MongoDB  
+- 🤖 AI Assistant Management
+- 📚 Knowledge Base Management
+- 💬 Conversation Testing Playground
+- 📜 Conversation History
+- 📝 Prompt Management
+- 📊 Analytics Dashboard
+- ⭐ Response Evaluation & Feedback
+- 👥 Role-Based User Management
+- 🔐 Secure JWT Authentication
+- 🌙 Dark & Light Mode
+
 
 ---
 
@@ -39,16 +45,32 @@ Charotar University of Science and Technology
 - Express.js
 - MongoDB
 - Mongoose
-- OpenAI API
+- Groq API
+- Llama 3.3 70B Versatile
 
 ### 🔐 Authentication & Security
-- JWT (if used)
+- JWT
 - bcryptjs
 - dotenv
 - CORS
 - Helmet
 
 ---
+
+## 📦 Core Modules
+
+- Dashboard
+- AI Assistants
+- Knowledge Base
+- Prompt Studio
+- Conversation Testing
+- Conversation History
+- Response Evaluation
+- Analytics
+- Feedback Management
+- User Management
+- Settings
+  
 
 ## 🚀 Build & Run Instructions
 
@@ -120,8 +142,7 @@ AI Conversation Studio/
 
 ### 📌 Note
 
-This project is developed for hackathon/academic submission purposes and demonstrates full-stack development skills.
-
+This project was developed as part of the 22North Product Engineering Challenge 2026. It demonstrates enterprise software engineering, AI platform management, product thinking, and modern full-stack application development.
 
 ### 👨‍💻 Author
 
